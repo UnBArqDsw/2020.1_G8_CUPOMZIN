@@ -1,25 +1,19 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
+# Cupomzin
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2020.1_G1_ProjetoPandora!!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 8<br>
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0036634  | João de Assis da Silva Carneiro |
+| 17/0039668  | Lucas Ganda Carvalho |
+| 17/0146251  | João Lucas Fragoso Zarbielli |
+| 17/0047326  | Wictor Bastos Girardi  |
+| 17/0056155  | André Aben-Athar de Freitas |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Aplicativo de cupoms de desconto
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
