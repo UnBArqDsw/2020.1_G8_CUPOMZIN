@@ -1,0 +1,42 @@
+
+
+
+| Data | Versão | Descrição | Participantes|
+| -------- | -------- | -------- | --------  |
+| 01/09/2020     | 0.1     | Criação do documento    | João de Assis, Lucas Ganda, João Lucas Zarbiélli |
+
+
+# 1. Introdução
+5W2H é uma ferramenta de gestão usada para trazer clareza e eficiencia para os envolvidos em um projeto. O 5W2H trata de um checklist que com 7 diretrizes do projeto, que esclarecem possíveis dúvidas sobre o projeto.
+
+# 2. Objetivo
+O uso dessa ferramenta tem como objetivo traçar um plano de ação e fazer com que objetivos e metas tornem-se mais fáceis de serem assimiladss pelos integrantes da equipe e implementados no projeto.
+
+# 3. Metodologia
+O grupo reuniu-se em uma video-chamada via google hangouts e após um processo de brainstorm e introspecção foram levantados os pontos necessários para realização deste artefato.
+
+# 4. 5W2H
+
+* What? (O que será feito ?)
+* Why? (Por que será feito ?)
+* Where? (Onde será feito ?)
+* When? (Quando será feito ?)
+* Who? (Por quem será feito ?)
+* How? (Como séra feito ?)
+* How much? (Quanto vai custar ?)
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+|  What   |  O que será feito?    | Um aplicativo de cupons de desconto     |
+|  Why   |   Por que será feito?   | Para auxiliar na divulgação de lojas e ajudar com descontos nas compras     |
+|  Where   |  Onde será utilizado?| Em shopping centers e feiras através de smartphones   |
+|  When   |  Quando será feito?    | No semestre de 2020.1     |
+|  Who   |   Por quem será feito?   |  A equipe do projeto é formada por alunos da disciplina de Arquitetura e Desenho de software da FGA   |
+|  How  |  Como séra feito?    | Um app mobile e web, utilizando flutter para o front end, node.js para o backend e postgresql para o banco de dados     |
+|  How much  | Quanto vai custar?  | 	O custo do projeto será o tempo de desenvolvimento     |
+
+# 5.Conclusão
+É uma técnica simples e de fácil entendimento e, por não ser necessário possuir um especilista na área para utilizá-la, torna-se utilizavel por qualquer pessoa. Dentro do contexto da disciplina, essa técnica trouxe um melhor entendimento do que é preciso fazer e como para resolver nosso problema: o desenvolvimento do app Cuponzim
+
