@@ -55,13 +55,6 @@ link para Questionário V0.1: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27
 3. Raramente
 4. Nunca
 
-### Quando você vai a um estabelecimento que possui aplicativo para celular, você geralmente
-
-1. Tem o aplicativo baixado
-2. Baixa o aplicativo na hora
-3. Baixa o aplicativo se oferecerem desconto
-4. Não baixa o aplicativo
-
 ### Você costuma visitar lojas novas por conta de descontos?
 
 1. Frequentemente
