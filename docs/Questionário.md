@@ -17,6 +17,8 @@ Após isso, também foi examinada a viabilidade de ter ter um aplicativo baixado
 
 # 4. Perguntas V0.1
 
+link para Questionário V0.1: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
+
 ## (Considere os tempos pré-quarentena na hora de responder as perguntas)
 
 ### Com que frequência você vai ao shopping?
@@ -29,7 +31,7 @@ Após isso, também foi examinada a viabilidade de ter ter um aplicativo baixado
 ### Quando vai ao shopping, você geralmente sabe exatamente o que comprar e aonde comprar?
 
 1.  Sim, vou sempre com tudo o que quero comprar em mente e conheço a loja que vende
-2.       Geralmente sei o que vou comprar, mas não sei em qual loja comprar
+2.  Geralmente sei o que vou comprar, mas não sei em qual loja comprar
 3.  Não, geralmente vou ao shopping sem nada em mente (para passear).
 
 ### Com que frequência você compra produtos com cupom?
@@ -52,13 +54,6 @@ Após isso, também foi examinada a viabilidade de ter ter um aplicativo baixado
 2. Ás vezes
 3. Raramente
 4. Nunca
-
-### Quando você vai a um estabelecimento que possui aplicativo para celular, você geralmente
-
-1. Tem o aplicativo baixado
-2. Baixa o aplicativo na hora
-3. Baixa o aplicativo se oferecerem desconto
-4. Não baixa o aplicativo
 
 ### Você costuma visitar lojas novas por conta de descontos?
 
