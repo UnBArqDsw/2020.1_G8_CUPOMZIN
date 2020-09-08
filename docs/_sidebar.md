@@ -1,9 +1,12 @@
 - [Home](/)
 - **Projeto**
+  - [Manual de Identidade Visual](ManualIdentidadeVisual.md)
+  - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
   - **Pré-Rastreabilidade**
     - [Rich Picture](rich_picture.md)
     - [5W2H](5W2H.md)
   - **Elicitação**
-    - [StoryBoard](Elicitation/StoryBoard.md)
     - [Questionário](Questionário.md)
-
+- **Sobre o Cuponzim**
+    - [Folha de Estilo](folhaDeEstilo.md)
+    - [Como Contribuir](comoContribuir.md)
