@@ -1,7 +1,7 @@
   <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 
-  <p>Trata-se de um sistema para cadastro e consulta de estoque. Ele possui uma platarforma web para cadastro e listagem de produtos, bem como geração de planilhas com resumos e gráficos para mostrar sua evolução.Também, possui uma versão mobile somente para consulta rápida de produtos e para atualização mais ágil do estoque (Retirar um produto recém vendido, por exemplo) e por fim um servidor que irá cuidar de todo o fluxo do negócio. 
+  <p>Cuponzim é um projeto que busca facilitar a maneira de você comprar dentro de shoppings,outlets e feiras. Por meio do nosso aplicativo o cliente vai poder encontrar cupons exclusivos para comprar produtos variados com descontos de maneira simplificada. O varejista vai poder cadastrar suas promoções por meio de uma plataforma web voltada para lojas. 
   </p>
 
   <h3>Membros da equipe</h3>
