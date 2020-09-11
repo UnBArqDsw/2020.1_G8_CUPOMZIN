@@ -19,7 +19,7 @@ Após isso, também foi examinada a viabilidade de ter ter um aplicativo baixado
 
 # 4. Perguntas V1.0
 
-link para Questionário V0.1: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
+link para Questionário V1.0: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
 
 ## (Considere os tempos pré-quarentena na hora de responder as perguntas)
 
@@ -56,13 +56,6 @@ link para Questionário V0.1: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27
 2. Ás vezes
 3. Raramente
 4. Nunca
-
-### Quando você vai a um estabelecimento que possui aplicativo para celular, você geralmente
-
-1. Tem o aplicativo baixado
-2. Baixa o aplicativo na hora
-3. Baixa o aplicativo se oferecerem desconto
-4. Não baixa o aplicativo
 
 ### Você costuma visitar lojas novas por conta de descontos?
 

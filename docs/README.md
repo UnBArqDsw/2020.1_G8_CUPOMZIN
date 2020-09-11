@@ -1,34 +1,85 @@
-# Cupomzin
+  <h2>Arquitetura e desenho de software</h2>
+  <h3>Sobre o projeto</h3>
 
-**Número do Grupo**: 8<br>
-**Código da Disciplina**: FGA0208-T01<br>
+  <p>Cuponzim é um projeto que busca facilitar a maneira de você comprar dentro de shoppings,outlets e feiras. Por meio do nosso aplicativo o cliente vai poder encontrar cupons exclusivos para comprar produtos variados com descontos de maneira simplificada. O varejista vai poder cadastrar suas promoções por meio de uma plataforma web voltada para lojas. 
+  </p>
 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 17/0036634  | João de Assis da Silva Carneiro |
-| 17/0039668  | Lucas Ganda Carvalho |
-| 17/0146251  | João Lucas Fragoso Zarbielli |
-| 17/0047326  | Wictor Bastos Girardi  |
-| 17/0056155  | André Aben-Athar de Freitas |
+  <h3>Membros da equipe</h3>
 
-## Sobre 
-Aplicativo de cupoms de desconto
+  <div class="members">
+    <div class="member">
+      <img src="./assets/img/members/wictor.JPG" alt="member name" style="object-fit: cover;">
+      <p>Wictor Girardi<p>
+    </div>
+    <div class="member">
+      <img src="./assets/img/members/zarbielli.jpg" alt="member name" style="object-fit: cover;">
+      <p>João Lucas Zarbiélli<p>
+    </div>
+    <div class="member">
+      <img src="./assets/img/members/Ganda.jpg" alt="member name" style="object-fit: cover;">
+      <p>Lucas Ganda<p>
+    </div>
+    </div>
+    <div class="member line2">
+    <div class="member">
+      <img src="./assets/img/members/joao.jpg" alt="member name" style="object-fit: cover;">
+      <p>João de Assis<p>
+    </div>
+    <div class="member">
+      <img src="./assets/img/members/andre.jpeg"alt="member name" style="object-fit: cover;">
+      <p>André Freitas<p>
+    </div>
+   
+  </div>
+  <p align="center"><a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a></p>
+  </p>
+</div>
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
+<style>
+  .members {
+    display: grid; 
+    grid-template-columns: auto auto auto;
+    margin-top: 20px;
+  }
+  .member img{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    opacity: 1;
+    border-style: solid;
+    border-radius: 100px;
+    border-width: 1px; 
+    border-color: rgba(0,0,0,0.3);
+    z-index: 3;
+    transition: opacity 0.5s !important;
+  }
+  .member img:hover{
+    opacity: 0.4;
+    z-index: 1;
+  }
+  
+ .member{
+   margin: 20px;
+   display: flex;
+   justify-content: center;
+  }
+ 
+ .member p{
+    position: absolute;
+    transform: translate(0, 70px);
+    z-index: 2;
+    color: #fff;
+    font-weight: bold;
+    font-family: Montserrat;
+  }
 
-## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
+  h2, p {
+    font-family: Montserrat !important;
+    font-weight: 500;
+  }
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto final.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+  h3 {
+    font-family: Montserrat !important;
+    font-weight: bold;
+  }
+</style>
