@@ -15,9 +15,9 @@ O uso dessa ferramenta tem como objetivo traçar um plano de ação e fazer com 
 O questionário aqui utilizado procurou primeiro traçar o perfil de quem estava respondendo,se o usuário possui interesses em descontos ou não.
 Após isso, também foi examinada a viabilidade de ter ter um aplicativo baixado no celular para ser utilizado dentro um shopping.
 
-# 4. Perguntas V0.1
+# 4. Perguntas V1.0
 
-link para Questionário V0.1: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
+link para Questionário V1.0: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
 
 ## (Considere os tempos pré-quarentena na hora de responder as perguntas)
 
