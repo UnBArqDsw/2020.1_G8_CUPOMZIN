@@ -1,7 +1,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 08/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
-
+|11/09/2020| 1.1 |Corrigindo valor do dev junior| João de Assis|
 
 # 1. Introdução
 
@@ -39,7 +39,7 @@ Para chegar nos valores salariais definidos a equipe fez uma pesquisa de quanto 
 
 | Cargo | Quantidade | Salário mensal | Meses de trabalho| Custo total
 | -------- | -------- | -------- | ------- |----- |
-| Desenvolvedor Junior     | 5  | R$:1050,00     | 4 | R$:21000,00|
+| Desenvolvedor Junior     | 5  | R$:2100,00     | 4 | R$:42000,00|
 
 
 
@@ -54,14 +54,15 @@ Para estimar o custo total, além de somar todas as despesas levantadas nos tóp
 
 Custo	Valor Total
 Aquisição	R$ 11.245,00
-Pessoal	R$ 21.000,00
-Total	R$ 32.245,00
+Pessoal	R$ 42.000,00
+Total	R$ 53.245,00
+
 
 
 Custo	Valor Total
-Custos de aquisição e pessoal	R$ 32.245,00
-Acrescimo de risco	R$ 6449,00
-Total	R$ 38.694,00
+Custos de aquisição e pessoal	R$ 53.245,00
+Acrescimo de risco	R$ 10.649,00
+Total	R$ 63.894
 
 
 # 6. Referências
