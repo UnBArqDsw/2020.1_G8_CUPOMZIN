@@ -8,8 +8,9 @@
     - [Causa e Efeito](causaEfeito.md)
   - **Elicitação**
     - [Questionário](Questionário.md)
-  - **Gerenciamento de custos**
+  - **Planejamento de custos e riscos**
     - [Plano de gerenciamento de custos](PlanoDeGerenciamentoDeCustos.md)
+    - [Plano de gerenciamento de riscos](GerenciamentoDeRiscos.md)
 - **Sobre o Cuponzim**
     - [Folha de Estilo](folhaDeEstilo.md)
     - [Como Contribuir](comoContribuir.md)
