@@ -7,6 +7,8 @@
     - [5W2H](5W2H.md)
   - **Elicitação**
     - [Questionário](Questionário.md)
+  - **Gerenciamento de custos**
+    - [Plano de gerenciamento de custos](PlanoDeGerenciamentoDeCustos.md)
 - **Sobre o Cuponzim**
     - [Folha de Estilo](folhaDeEstilo.md)
     - [Como Contribuir](comoContribuir.md)

@@ -1,6 +1,7 @@
-| Data       | Versão | Descrição            | Participantes                                                     |
-| ---------- | ------ | -------------------- | ----------------------------------------------------------------- |
-| 01/09/2020 | 1.0    | Criação do documento | João de Assis, Lucas Ganda, João Lucas Zarbiélli e Wictor Girardi |
+| Data | Versão | Descrição | Participantes|
+| -------- | -------- | -------- | --------  |
+| 01/09/2020     | 1.0     | Criação do documento    | João de Assis, Lucas Ganda, João Lucas Zarbiélli e Wictor Girardi|
+
 
 # Contribuindo com o projeto
 
@@ -72,7 +73,7 @@ em que 'nome' é o nome do artefato.
 
 ## Políticas de _Commits_
 
-Os _commits_ devem ser atômicos e a mensagem do _commit_ deve ser clara e objetiva e no idioma português.
+Os _commits_ devem ser atômicos e a mensagem do _commit_ deve ser clara e objetiva e no idioma inglês.
 
 ## Documentação
 

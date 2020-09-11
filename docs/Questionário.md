@@ -1,6 +1,8 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 07/09/2020 | 0.1    | Criação do documento e Questionário no GoogleForms | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
+| 07/09/2020 | 1.0    | Criação do documento e Questionário no GoogleForms | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
+|
+| 10/09/2020 | 2.0    |Adição dos resultados do questionário | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
 
 # 1. Introdução
 
@@ -15,9 +17,9 @@ O uso dessa ferramenta tem como objetivo traçar um plano de ação e fazer com 
 O questionário aqui utilizado procurou primeiro traçar o perfil de quem estava respondendo,se o usuário possui interesses em descontos ou não.
 Após isso, também foi examinada a viabilidade de ter ter um aplicativo baixado no celular para ser utilizado dentro um shopping.
 
-# 4. Perguntas V0.1
+# 4. Perguntas V1.0
 
-link para Questionário V0.1: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
+link para Questionário V1.0: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
 
 ## (Considere os tempos pré-quarentena na hora de responder as perguntas)
 
@@ -87,3 +89,34 @@ link para Questionário V0.1: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27
 
 1.  Sim
 2.  Não
+
+
+
+# 5. Resultados
+
+Após postarmos o questionário em várias mídias digitais como Twitter, Facebook e Grupos de Telegram, obtivemos no período de 2 dias 90 respostas.
+
+Abaixo se encontram os resultados:
+
+
+![](https://i.imgur.com/AkFqAD4.png)
+![](https://i.imgur.com/CgO0auS.png)
+![](https://i.imgur.com/KL8sgwf.png)
+![](https://i.imgur.com/C9Kr5CG.png)
+![](https://i.imgur.com/75dkqBw.png)
+![](https://i.imgur.com/osq7I1i.png)
+![](https://i.imgur.com/VGkg9i8.png)
+![](https://i.imgur.com/Z10Qa2E.png)
+![](https://i.imgur.com/LJ42BML.png)
+![](https://i.imgur.com/mIlqmgp.png)
+
+## Conclusão
+
+Com os resultados atribuídos via questionário, foi confirmado que existe o nicho necessário para o Aplicativo CUPONZIM.
+
+* As pessoas em sua maioria frequentam Shoppings.
+* As pessoas possuem interesse em desconstos.
+* Estão dispostas a baixar um aplicativo.
+* Estão dispostas a utilizar um aplicativo.
+* O consumidor é acostumado a utilizar cupons.
+
