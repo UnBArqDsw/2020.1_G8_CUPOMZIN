@@ -1,7 +1,6 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 07/09/2020 | 1.0    | Criação do documento e Questionário no GoogleForms | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
-|
 | 10/09/2020 | 2.0    |Adição dos resultados do questionário | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
 
 # 1. Introdução
