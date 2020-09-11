@@ -1,6 +1,6 @@
 | Data | Versão | Descrição | Participantes|
 | -------- | -------- | -------- | --------  |
-| 07/09/2020     | 0.1     | Criação do documento    |Wictor Girardi|
+| 07/09/2020     | 1.0     | Criação do documento    |Wictor Girardi|
 
 
 # Cuponzim
