@@ -5,6 +5,7 @@
   - **Pré-Rastreabilidade**
     - [Rich Picture](rich_picture.md)
     - [5W2H](5W2H.md)
+    - [Causa e Efeito](causaEfeito.md)
   - **Elicitação**
     - [Questionário](Questionário.md)
   - **Gerenciamento de custos**
