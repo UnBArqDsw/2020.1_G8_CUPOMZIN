@@ -1,4 +1,3 @@
-- [Modelagem](Index/modelingIndex.md)
-- [Padrões de projeto](Index/projectPatternsIndex.md)
-- [Arquitetura e reutilização](Index/architectureIndex.md)
-
+- [Projeto](ManualIdentidadeVisual.md)
+- [Pré-Rastreabilidade](rich_picture.md)
+- [Elicitação](Questionário.md)

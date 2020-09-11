@@ -1,15 +1,15 @@
 | Data | Versão | Descrição | Participantes|
 | -------- | -------- | -------- | --------  |
-| 07/09/2020     | 0.1     | Criação do documento    |Wictor Girardi|
+| 07/09/2020     | 1.0    | Criação do documento    |Wictor Girardi|
 
 
 # Cuponzim
 ## Manual Identidade Visual
 
 Sumário:
- - [Logo](#documentação)
- - [Paleta de Cores](#issues)
- - [Tipografia](#bugs)
+ - [Logo](#Logo)
+ - [Paleta de Cores](#Paleta_de_Cores)
+ - [Tipografia](#Tipografia)
 
 
 ## Logo

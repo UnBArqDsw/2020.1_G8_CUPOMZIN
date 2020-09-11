@@ -1,4 +1,4 @@
-  <h2>Arquitetura e desenho de software</h2>
+ <h2>Arquitetura e desenho de software</h2>
   <h3>Sobre o projeto</h3>
 
   <p>Cuponzim é um projeto que busca facilitar a maneira de você comprar dentro de shoppings,outlets e feiras. Por meio do nosso aplicativo o cliente vai poder encontrar cupons exclusivos para comprar produtos variados com descontos de maneira simplificada. O varejista vai poder cadastrar suas promoções por meio de uma plataforma web voltada para lojas. 

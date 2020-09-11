@@ -1,6 +1,6 @@
 | Data | Versão | Descrição | Participantes|
 | -------- | -------- | -------- | --------  |
-| 01/09/2020     | 0.1     | Criação do documento    | João de Assis, Lucas Ganda, João Lucas Zarbiélli e Wictor Girardi|
+| 01/09/2020     | 1.0     | Criação do documento    | João de Assis, Lucas Ganda, João Lucas Zarbiélli e Wictor Girardi|
 
 
 [1. Introdução](#1-Introdução)   
