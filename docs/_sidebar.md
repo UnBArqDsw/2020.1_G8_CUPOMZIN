@@ -3,8 +3,11 @@
   - [Manual de Identidade Visual](ManualIdentidadeVisual.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
   - **Pré-Rastreabilidade**
+    - [Léxico](Lexico.md)
     - [Rich Picture](rich_picture.md)
     - [5W2H](5W2H.md)
+    - [Causa e Efeito](causaEfeito.md)
+    - [Metodologias](Metodologias.md)
   - **Elicitação**
     - [Questionário](Questionário.md)
   - **Planejamento de custos e riscos**
