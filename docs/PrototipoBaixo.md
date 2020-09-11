@@ -1,7 +1,7 @@
 | Data | Versão | Descrição | Participantes|
 | -------- | -------- | -------- | --------  |
-| 01/09/2020     | 0.1     | Criação do documento    |Wictor Girardi|
-| 07/09/2020     | 0.2     | Melhoria do documento  |Wictor Girardi|
+| 01/09/2020     | 1.0     | Criação do documento    |Wictor Girardi|
+| 07/09/2020     | 2.0     | Melhoria do documento  |Wictor Girardi|
 
 
 # Protótipo de Baixa Fidelidade
