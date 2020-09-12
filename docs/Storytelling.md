@@ -29,11 +29,11 @@ Os requisitos levantados estão dispostos abaixo, por meio da técnica de priori
 
 | Nome do requisito | Prioridade    | Descricao                                                                                                      |
 | ----------------- | --- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| ReqCli02          |  Should   | O aplicativo deveria detectar automaticamente a localização do usuário        
-| ReqCli03          |  Should   | O aplicativo deveria selecionar automaticamente o shopping do usuário de acordo com a sua localização          
-| ReqCli04          |  Must   | O aplicativo deve possibilitar ao usuário ser capaz de visualizar uma lista de estabelecimentos                
-| ReqCli08          |  Must   | O aplicativo deve possibilitar ao usuário escolher uma estabelecimento e verificar os cupons ofertados por ele 
-| ReqCli09          |   Must  | O aplicativo deve possibilitar ao usuário escolher um cupom e mostrar suas informações                         
+| ReqCli02          |  Should   | O aplicativo deveria detectar automaticamente a localização do usuário  |      
+| ReqCli03          |  Should   | O aplicativo deveria selecionar automaticamente o shopping do usuário de acordo com a sua localização  |        
+| ReqCli04          |  Must   | O aplicativo deve possibilitar ao usuário ser capaz de visualizar uma lista de estabelecimentos   |             
+| ReqCli08          |  Must   | O aplicativo deve possibilitar ao usuário escolher uma estabelecimento e verificar os cupons ofertados por ele |
+| ReqCli09          |   Must  | O aplicativo deve possibilitar ao usuário escolher um cupom e mostrar suas informações      |                   
 | ReqCli12          |  Could   | O aplicativo poderia enviar notificações ao usuário sobre promoções próximas  |
-| ReqLoj01          | Must    | O lojista deve ser capaz de cadastrar seu estabelecimento      
-| ReqLoj06          | Must    | O lojsta deve ser capaz de cadastrar cupons                    
+| ReqLoj01          | Must    | O lojista deve ser capaz de cadastrar seu estabelecimento |     
+| ReqLoj06          | Must    | O lojsta deve ser capaz de cadastrar cupons  |                  
