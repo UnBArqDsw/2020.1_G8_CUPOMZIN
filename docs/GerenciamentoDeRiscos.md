@@ -11,7 +11,7 @@ Para auxiliar no melhor entendimento da gravidade e probablidade dos riscos, os 
 * Média probablidade/gravidade
 * Alta probablidade/gravidade
 # 4. Resultados
-Riscos| Probablidade | Gravidade |Plano de Ação
+Riscos| Probablidade | Gravidade |Plano de Ação|
 ---|---|---|----
 Abandono da matéria por parte de algum dos integrantes da equipe | Baixa |Alta|Realocação de membros da equipe, possível redução de escopo e aumento da carga horária dos membros
 Acontecimento de algum tipo de greve | Média |Baixa|Toda comunicação e pareamento será feita de forma remota, não precisando ser mudado o plano de ação
