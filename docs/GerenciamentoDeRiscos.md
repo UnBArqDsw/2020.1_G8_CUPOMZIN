@@ -13,14 +13,14 @@ Para auxiliar no melhor entendimento da gravidade e probablidade dos riscos, os 
 # 4. Resultados
 Riscos| Probablidade | Gravidade |Plano de Ação|
 ---|---|---|----
-Abandono da matéria por parte de algum dos integrantes da equipe | Baixa |Alta|Realocação de membros da equipe, possível redução de escopo e aumento da carga horária dos membros
-Acontecimento de algum tipo de greve | Média |Baixa|Toda comunicação e pareamento será feita de forma remota, não precisando ser mudado o plano de ação
-Falta de conhecimento/ experiência em relação as tecnologias | Média |Média|Realizar treinamentos e estudos em relação ao tema com dificuldade, pareamento com companheiro mais experiente
-Defeito de algum equipamento da equipe | Baixa |Alta|Alocar pareamentos com um membro que tenha disponibilidade parecida facilitando encontros
-Problemas com internet | Alta | Média | Realocar os esforços dos integrantes sem problema enquanto se resolve o problema
-Indisponibilidade horária de alguns integrantes | Alta |Baixa|Tentar adaptar horários de acordo com essas indisponibilidades
-Baixa produtividade dos integrantes | Média |Alta|Monitorar a planilha de horas trabalhadas e quadro de humor e agir em cima das improdutividades da equipe
-Desentendimentos entre membros da equipe | Média |Alta|Identificar as falhas de comunicação e conversar com os membros da equipe para resolve-las
+Abandono da matéria por parte de algum dos integrantes da equipe | Baixa |Alta|Realocação de membros da equipe, possível redução de escopo e aumento da carga horária dos membros |
+Acontecimento de algum tipo de greve | Média |Baixa|Toda comunicação e pareamento será feita de forma remota, não precisando ser mudado o plano de ação|
+Falta de conhecimento/ experiência em relação as tecnologias | Média |Média|Realizar treinamentos e estudos em relação ao tema com dificuldade, pareamento com companheiro mais experiente |
+Defeito de algum equipamento da equipe | Baixa |Alta|Alocar pareamentos com um membro que tenha disponibilidade parecida facilitando encontros |
+Problemas com internet | Alta | Média | Realocar os esforços dos integrantes sem problema enquanto se resolve o problema |
+Indisponibilidade horária de alguns integrantes | Alta |Baixa|Tentar adaptar horários de acordo com essas indisponibilidades |
+Baixa produtividade dos integrantes | Média |Alta|Monitorar a planilha de horas trabalhadas e quadro de humor e agir em cima das improdutividades da equipe |
+Desentendimentos entre membros da equipe | Média |Alta|Identificar as falhas de comunicação e conversar com os membros da equipe para resolve-las |
 Burnout de algum membro da equipe|Baixa|Alta|Reavaliar os esforços do membro, prestar suporte e modificar o plano de ação para que não ocorra a nenhum outro|
 
 # 5. Acompanhamento dos riscos
