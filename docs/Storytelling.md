@@ -27,8 +27,9 @@ Marizte estava no shopping decidida a comprar uma TV nova para maratonar suas s�
 
 Os requisitos levantados estão dispostos abaixo, por meio da técnica de priorização [MoSCoW](MoSCoW.md)
 
-| Nome do requisito | Prioridade    | Descricao                                                                                                      |
-| ----------------- | --- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+
+| Nome do requisito | Prioridade    | Descricao    |
+|----| ----- |----- |
 | ReqCli02          |  Should   | O aplicativo deveria detectar automaticamente a localização do usuário  |      
 | ReqCli03          |  Should   | O aplicativo deveria selecionar automaticamente o shopping do usuário de acordo com a sua localização  |        
 | ReqCli04          |  Must   | O aplicativo deve possibilitar ao usuário ser capaz de visualizar uma lista de estabelecimentos   |             
