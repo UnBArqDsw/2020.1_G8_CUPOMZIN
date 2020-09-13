@@ -11,6 +11,7 @@
   - **Elicitação**
     - [Questionário](Questionário.md)
     - [Storytelling](Storytelling.md)
+    - [MoSCow](MoSCoW.md)
   - **Planejamento de custos e riscos**
     - [Plano de gerenciamento de custos](PlanoDeGerenciamentoDeCustos.md)
     - [Plano de gerenciamento de riscos](GerenciamentoDeRiscos.md)
