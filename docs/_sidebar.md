@@ -15,6 +15,6 @@
   - [Folha de Estilo](folhaDeEstilo.md)
   - [Como Contribuir](comoContribuir.md)
 - **Dinâmica e Seminário II**
- - [Diagrama de Atividades](activitiesDiagram.md)
-    - [Diagrama de Componente](componentDiagram.md)
-    - [Diagrama de Estado](stateDiagram.md)
+  - [Diagrama de Atividades](activitiesDiagram.md)
+  - [Diagrama de Componente](componentDiagram.md)
+  - [Diagrama de Estado](stateDiagram.md)
