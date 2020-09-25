@@ -2,6 +2,7 @@
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 07/09/2020 | 1.0    | Criação do documento e Questionário no GoogleForms | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
 | 10/09/2020 | 2.0    |Adição dos resultados do questionário | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
+| 25/09/2020 | 3.0    |Fazendo refereciamento do documento | Lucas Ganda |
 
 # 1. Introdução
 
@@ -17,8 +18,6 @@ O questionário aqui utilizado procurou primeiro traçar o perfil de quem estava
 Após isso, também foi examinada a viabilidade de ter ter um aplicativo baixado no celular para ser utilizado dentro um shopping.
 
 # 4. Perguntas V1.0
-
-link para Questionário V1.0: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform?usp=sf_link
 
 ## (Considere os tempos pré-quarentena na hora de responder as perguntas)
 
@@ -119,3 +118,5 @@ Com os resultados atribuídos via questionário, foi confirmado que existe o nic
 * Estão dispostas a utilizar um aplicativo.
 * O consumidor é acostumado a utilizar cupons.
 
+## Referências 
+Questionário aplicado via Google Forms. Disponível em: https://docs.google.com/forms/d/e/1FAIpQLScd45xO27Ru3G_6_PfWd8fl5tFkM-liZNIYYMuhOSxN-j2h9A/viewform. Acesso em: 25/09/2020.
