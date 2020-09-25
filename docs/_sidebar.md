@@ -18,6 +18,7 @@
 - **Modelagem**
     - [Diagrama de Atividades](activitiesDiagram.md)
     - [Diagrama de Componente](componentDiagram.md)
+    - [Diagrama de Estado](stateDiagram.md)
   **Sobre o Cuponzim**
     - [Folha de Estilo](folhaDeEstilo.md)
     - [Como Contribuir](comoContribuir.md)
