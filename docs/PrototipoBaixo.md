@@ -3,7 +3,8 @@
 | 01/09/2020 | 0.1    | Criação do documento  | Wictor Girardi |
 | 07/09/2020 | 0.2    | Melhoria do documento | Wictor Girardi |
 | 10/09/2020 | 0.3    | Melhoria do documento | Wictor Girardi |
-| 11/09/2020 | 0.4    | Adicionando tópico 5 | João de Assis |
+| 11/09/2020 | 1.0    | Adicionando tópico 5 | João de Assis |
+| 25/09/2020 | 1.1    | Adicionando melhores rastros | Wictor Girardi |
 
 # 1. Introdução
 
@@ -40,3 +41,10 @@ Os requisitos levantados por este documento estão dispostos abaixo, por meio da
 | ReqCli09          |   Must  | O aplicativo deve possibilitar ao usuário escolher um cupom e mostrar suas informações                         |
 | ReqCli10          | Must    | O aplicativo deve possibilitar que o usuário resgate um cupom válido                                           |
 | ReqCli11          |  Must   | O aplicativo deve possibilitar ao usuário enviar uma mensagem para os desenvolvedores                          |
+
+# 6. Referências
+
+Google Design Sprint: como funciona e como aplicar no seu projeto. Disponível em :
+https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659?gi=bdd02dc3aab0
+
+

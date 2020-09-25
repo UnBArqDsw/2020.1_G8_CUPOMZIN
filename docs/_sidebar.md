@@ -1,7 +1,6 @@
 - [Home](/)
 - **Dinâmica e Seminário I**
   - [Manual de Identidade Visual](ManualIdentidadeVisual.md)
-  - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
   - [Léxico](Lexico.md)
   - [Rich Picture](rich_picture.md)
   - [5W2H](5W2H.md)
@@ -18,3 +17,5 @@
   - [Diagrama de Atividades](activitiesDiagram.md)
   - [Diagrama de Componente](componentDiagram.md)
   - [Diagrama de Estado](stateDiagram.md)
+  - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
+  - [Protótipo de Alta Fidelidade](PrototipoAlto.md)
