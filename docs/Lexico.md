@@ -6,7 +6,7 @@
 | ---------- | ------ | -------------------- | --------------- |
 | 10/09/2020 | 1.0 | Criação de documento | Lucas Ganda, João Lucas Zarbiélli, André Freitas, João de Assis e Wictor Girardi |
 | 25/09/2020 | 2.0 | Melhorias no documento | André Freitas|
-| 26/09/2020 | 3.0 | Melhorias no documento | Lucas Ganda|
+| 26/09/2020 | 3.0 | Melhorias no documento | Lucas Ganda e João de Assis|
 
 
 ## 1.Introdução
