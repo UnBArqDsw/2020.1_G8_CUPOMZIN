@@ -1,24 +1,23 @@
 - [Home](/)
-- **Projeto**
+- **Dinâmica e Seminário I**
   - [Manual de Identidade Visual](ManualIdentidadeVisual.md)
+  - [Léxico](Lexico.md)
+  - [Rich Picture](rich_picture.md)
+  - [5W2H](5W2H.md)
+  - [Causa e Efeito](causaEfeito.md)
+  - [Metodologias](Metodologias.md)
+  - [Questionário](Questionário.md)
+  - [Storytelling](Storytelling.md)
+  - [MoSCow](MoSCoW.md)
+  - [Plano de gerenciamento de custos](PlanoDeGerenciamentoDeCustos.md)
+  - [Plano de gerenciamento de riscos](GerenciamentoDeRiscos.md)
+  - [Folha de Estilo](folhaDeEstilo.md)
+  - [Como Contribuir](comoContribuir.md)
+  - [Design Sprint](definicoesProjeto.md)
+- **Dinâmica e Seminário II**
+  - [Diagrama de Atividades](activitiesDiagram.md)
+  - [Diagrama de Componente](componentDiagram.md)
+  - [Diagrama de Estado](stateDiagram.md)
+  - [Diagrama de Pacotes](DiagramaDePacotes.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
-  - **Pré-Rastreabilidade**
-    - [Léxico](Lexico.md)
-    - [Rich Picture](rich_picture.md)
-    - [5W2H](5W2H.md)
-    - [Causa e Efeito](causaEfeito.md)
-    - [Metodologias](Metodologias.md)
-  - **Elicitação**
-    - [Questionário](Questionário.md)
-    - [Storytelling](Storytelling.md)
-    - [MoSCow](MoSCoW.md)
-  - **Planejamento de custos e riscos**
-    - [Plano de gerenciamento de custos](PlanoDeGerenciamentoDeCustos.md)
-    - [Plano de gerenciamento de riscos](GerenciamentoDeRiscos.md)
-- **Modelagem**
-    - [Diagrama de Atividades](activitiesDiagram.md)
-    - [Diagrama de Componente](componentDiagram.md)
-    - [Diagrama de Estado](stateDiagram.md)
-  **Sobre o Cuponzim**
-    - [Folha de Estilo](folhaDeEstilo.md)
-    - [Como Contribuir](comoContribuir.md)
+  - [Protótipo de Alta Fidelidade](prototipoAlto.md)
