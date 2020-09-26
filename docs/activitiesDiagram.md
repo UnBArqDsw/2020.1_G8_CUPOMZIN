@@ -4,7 +4,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 25/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
-| 26/09/2020 | 1.0    | Adicionando parte do logista | André Freitas |
+| 26/09/2020 | 1.1    | Adicionando parte do logista | André Freitas |
 
 <br/>
 
