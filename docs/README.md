@@ -35,6 +35,14 @@
   </p>
 </div>
 
+<div style="display: flex"> 
+ <p style="margin: auto; text-align: center">Design e estilização da GitHub pages feita com base ao Grupo 12 - Stock
+ <link>
+  https://github.com/UnBArqDsw/2020.1_G12_Stock
+ </link>
+  </p>
+</div>
+
 <style>
   .members {
     display: grid; 
