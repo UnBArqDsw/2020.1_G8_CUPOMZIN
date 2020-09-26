@@ -18,5 +18,6 @@
   - [Diagrama de Atividades](activitiesDiagram.md)
   - [Diagrama de Componente](componentDiagram.md)
   - [Diagrama de Estado](stateDiagram.md)
+  - [Diagrama de Pacotes](DiagramaDePacotes.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
   - [Protótipo de Alta Fidelidade](PrototipoAlto.md)
