@@ -46,4 +46,4 @@ Os requisitos levantados estão dispostos abaixo, por meio da técnica de priori
 <br/>
 
 # Referências
-Agilebusiness.org. 2020. Chapter 10: Moscow Prioritisation. [online] Disponível em: <https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation> [Accessado 25 September 2020].
+Boulila, N., Hoffmann, A. and Hermann, A., 2011. Using Storytelling To Record Requirements: Elements For An Effective Requirements Elicitation Approach. [online] Disponível em: <https://www.researchgate.net/publication/252052337_Using_Storytelling_to_record_requirements_Elements_for_an_effective_requirements_elicitation_approach> [Accessado 25 September 2020].

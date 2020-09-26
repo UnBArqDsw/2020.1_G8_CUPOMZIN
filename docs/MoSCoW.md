@@ -3,6 +3,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 11/09/2020 | 1.0   | Criação do documento | João de Assis e Lucas Ganda|
+| 25/09/2020 | 2.0   | Referenciando documento | Lucas Ganda |
 
 ## 1. Introdução
 O MoSCoW é um artefato, que por meio de divisões em Must, Should, Could e Won't Have ajuda a equipe a definir importância e priorizar os requisitos levantados pelos documentos de elicitação.
@@ -44,3 +45,10 @@ Após separação dos requisitos entre lojista e cliente, o resultado do MoSCoW 
 | ReqLoj06          | Must    | O lojsta deve ser capaz de cadastrar cupons                    | [Rich Picture](rich_picture.md) / [Storytelling](Storytelling.md)      |
 | ReqLoj07          | Must    | O lojsta deve ser capaz de excluir cupons                      | [Rich Picture](rich_picture.md)           |
 | ReqLoj08          | Must    | O lojsta deve ser capaz de cadastrar cupons                    | [Rich Picture](rich_picture.md)           |
+
+<br/>
+<br/>
+
+
+# Referências
+Agilebusiness.org. 2020. Chapter 10: Moscow Prioritisation. [online] Disponível em: <https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation> [Accessado 25 September 2020].
