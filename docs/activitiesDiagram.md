@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 25/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
+| 26/09/2020 | 1.0    | Adicionando parte do logista | André Freitas |
 
 <br/>
 
@@ -16,6 +17,10 @@ Um diagrama de atividade é essencialmente um gráfico de fluxo, mostrando o flu
 
 ### Mobile destinado ao Cliente
 ![cd1](./images/Diagrama-Atividade-Cliente.png)
+
+### Web destinado ao Lojista
+
+![cd1](./images/Diagrama-Atividade-lojista.png)
 
 ## Referências
 
