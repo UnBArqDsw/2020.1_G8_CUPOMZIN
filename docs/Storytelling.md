@@ -2,6 +2,7 @@
 | ---------- | ------------- | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 10/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
 | 11/09/2020 | 2.0    | Adicionando tópico 4      | Lucas Ganda |
+| 12/09/2020 | 3.0    | Referenciando documento      | Lucas Ganda |
 
 # 1. Introdução
 Elicitar utilizando o método storytelling trabalha a ideia de adquirir conhecimento por meio de histórias, afim de imaginar o possivel uso de um produto.
@@ -38,3 +39,11 @@ Os requisitos levantados estão dispostos abaixo, por meio da técnica de priori
 | ReqCli12          |  Could   | O aplicativo poderia enviar notificações ao usuário sobre promoções próximas  |
 | ReqLoj01          | Must    | O lojista deve ser capaz de cadastrar seu estabelecimento |     
 | ReqLoj06          | Must    | O lojsta deve ser capaz de cadastrar cupons  |                  
+
+
+
+<br/>
+<br/>
+
+# Referências
+Agilebusiness.org. 2020. Chapter 10: Moscow Prioritisation. [online] Disponível em: <https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation> [Accessado 25 September 2020].
