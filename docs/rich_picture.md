@@ -5,6 +5,7 @@
 | 10/09/2020 | 2.0    | Criação dos RP v 2.0 | João de Assis, André Freitas, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
 | 12/09/2020 | 2.1    | Adicionando tópico 4 | João de Assis |
 | 25/09/2020 | 2.2    | Adicionando RP digitais e referências | João Lucas Zarbiélli |
+| 26/09/2020 | 2.3    | Adiconando referencia e explicação para MoSCoW | João Lucas Zarbiélli |
 
 ## 1. Introdução
 O Rich Picture é uma técnica que gera um artefato de grau inferior de formalidade, que busca construir pré-rastreabilidade através de desenhos ou diagramas, feitos a mão ou digitalmente, expressando ideias ou funcionalidades e relações entre sistemas e subsistemas. Justamente por ser menos formal, muitas vezes servindo para transparecer a compreensão do problema através da visão dos vários envolvidos, que podem ajudar na criação dos diagramas sem precisar de nenhum conhecimento prévio.
@@ -32,6 +33,17 @@ Os rich pictures foram feitos após um brainstorm feito com todo o grupo atrvés
 
 ## 4. Requisitos levantados
 
+### 4.1 MoSCoW
+
+O método MoSCoW é uma técnica de priorização usada na gestão de projetos e desenvolvimento de softwares com o intuito de encontrar um entendimento em comum entre as partes interessadas sobre a importância que elas atribuem a cada requisito.
+O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma das quatro categorias com os “Os” no meio para fazer a palavra ser pronunciável. Fica assim:
+
+* Must Have (Tenho que fazer)
+* Should Have (Devo fazer)
+* Could Have (Poderia fazer)
+* Won’t Have (Não vou fazer)
+* Nesse sentido, a ordem de importância das tarefas vai seguindo uma ordem decrescente, onde Must Have são as mais relevantes e as Won’t Have as que podem ficar para depois
+
 Os requisitos levantados por este documento estão dispostos abaixo, por meio da técnica de priorização [MoSCoW](MoSCoW.md)
 
 | Nome do requisito | Prioridade    | Descricao    |
@@ -51,3 +63,6 @@ Os requisitos levantados por este documento estão dispostos abaixo, por meio da
 ## Referências
 
 [Grupo RocketChat - Requisitos](https://marcosnbj.github.io/2019.1-RocketChat/Pr%C3%A9-Rastreabilidade/RichPicture/) **Rich Pictures**
+<br/>
+
+[Rockcontent](https://rockcontent.com/br/blog/metodo-moscow/) **MoSCow** 
