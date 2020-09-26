@@ -20,5 +20,3 @@ Esse protótipo de alta fidelidade foi realizado utilizando o manual de identida
 
 Prototipagem de alta fidelidade: o que é, quando, por que e como usar?
 https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b
-
-

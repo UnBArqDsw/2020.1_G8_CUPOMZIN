@@ -20,4 +20,4 @@
   - [Diagrama de Estado](stateDiagram.md)
   - [Diagrama de Pacotes](DiagramaDePacotes.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
-  - [Protótipo de Alta Fidelidade](PrototipoAlto.md)
+  - [Protótipo de Alta Fidelidade](prototipoAltaFidelidade.md)
