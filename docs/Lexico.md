@@ -6,6 +6,8 @@
 | ---------- | ------ | -------------------- | --------------- |
 | 10/09/2020 | 1.0 | Criação de documento | Lucas Ganda, João Lucas Zarbiélli, André Freitas, João de Assis e Wictor Girardi |
 | 25/09/2020 | 2.0 | Melhorias no documento | André Freitas|
+| 26/09/2020 | 3.0 | Melhorias no documento | Lucas Ganda|
+
 
 ## 1.Introdução
 
@@ -19,6 +21,24 @@ Foi feito um brainstorming para levantar termos que sejam importantes no context
 
 ## 4.Léxicos
 
+
+###  Cliente
+|         |        |
+| ------- | ------ |
+|**Nome**| **Cliente**|
+|**Sinônimos**| Consumidor, usuário|
+|**Noção**| Indivíduo que realiza determinada compra|
+|**Impacto**|O cliente só comprará com desconto.|
+|**Tipo**| **Objeto**|
+
+###  Lojista
+|         |        |
+| ------- | ------ |
+|**Nome**| **Lojista**|
+|**Sinônimos**| Vendedor|
+|**Noção**| Indivíduo que trabalha na loja|
+|**Impacto**|O lojista não queria oferecer promoção para o cliente.|
+|**Tipo**| **Objeto**|
 
 
 ###  Loja
@@ -125,7 +145,7 @@ Foi feito um brainstorming para levantar termos que sejam importantes no context
 |**Impacto**| Este item está descontado.|
 |**Tipo**| **Estado**|
 
-## Cadastrar
+### Cadastrar
 |         |        |
 | ------- | ------ |
 |**Nome**| **Cadastrar**|
@@ -148,4 +168,4 @@ Foi feito um brainstorming para levantar termos que sejam importantes no context
 
 
 ## 5.Conclusão
-Até o presente momento foram elicitados 5 léxicos, documentadas acimas. Tal documentação pode ser essencial no compreendimento do projeto, já que os termos que serão usados recorrentementes é essencial.
+Até o presente momento foram elicitados 15 léxicos, todos documentados acima. Tal documentação pode ser essencial no compreendimento do projeto, já que o entendimento dos termos que serão usados recorrentementes é essencial.
