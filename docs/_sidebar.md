@@ -20,5 +20,6 @@
   - [Diagrama de Estado](stateDiagram.md)
   - [Diagrama de Pacotes](DiagramaDePacotes.md)
   - [Diagrama de Contexto](DiagramadeContexto.md)
+  - [Diagrama de Casos de Uso](DiagramaCasosDeUso.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
   - [Protótipo de Alta Fidelidade](prototipoAltaFidelidade.md)
