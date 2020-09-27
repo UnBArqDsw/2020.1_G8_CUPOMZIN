@@ -4,6 +4,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 26/09/2020 | 1.0    | Criação do documento | Lucas Ganda e André Freitas|
+| 27/09/2020 | 2.0    | Correção do documento | Lucas Ganda |
 
 
 <br/>
@@ -15,6 +16,9 @@ Um diagrama de contexto é o diagrama de fluxo de dados considerado o de mais al
 
 ## Versão 1.0
 ![d1](./images/diagrama_contexto.png)
+
+## Versão 2.0
+![d2](./images/diagrama_contexto2.png)
 
 ## Referências
 Freitas, É., Muhamad, Y. and Dutra, L., 2020. Document. [online] Pax-app.github.io. Disponível em: <https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-3/DiagramaContexto> [Accesado 26 September 2020].

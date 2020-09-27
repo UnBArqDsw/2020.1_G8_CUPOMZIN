@@ -16,6 +16,7 @@
   - [Diagrama de Atividades](activitiesDiagram.md)
   - [Diagrama de Componente](componentDiagram.md)
   - [Diagrama de Estado](stateDiagram.md)
+  - [Diagrama de Contexto](DiagramadeContexto.md)
   - [Folha de Estilo](folhaDeEstilo.md)
   - [Diagrama de Pacotes](DiagramaDePacotes.md)
   - [Diagrama de Banco de Dados](DiagramaBancoDeDados.md)
