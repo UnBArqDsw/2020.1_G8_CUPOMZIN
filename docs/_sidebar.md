@@ -18,6 +18,7 @@
   - [Diagrama de Estado](stateDiagram.md)
   - [Folha de Estilo](folhaDeEstilo.md)
   - [Diagrama de Pacotes](DiagramaDePacotes.md)
+  - [Diagrama de Banco de Dados](DiagramaBancoDeDados.md)
   - [Léxico](Lexico.md)
   - [Documento de Visão](DocVisao.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
