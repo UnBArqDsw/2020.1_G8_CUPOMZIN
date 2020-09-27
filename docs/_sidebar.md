@@ -10,6 +10,7 @@
   - [MoSCow](MoSCoW.md)
   - [Plano de gerenciamento de custos](PlanoDeGerenciamentoDeCustos.md)
   - [Plano de gerenciamento de riscos](GerenciamentoDeRiscos.md)
+  - [Léxico](Lexico.md)
   - [Como Contribuir](comoContribuir.md)
   - [Design Sprint](definicoesProjeto.md)
 - **Dinâmica e Seminário II**
@@ -19,7 +20,8 @@
   - [Folha de Estilo](folhaDeEstilo.md)
   - [Diagrama de Pacotes](DiagramaDePacotes.md)
   - [Diagrama de Banco de Dados](DiagramaBancoDeDados.md)
-  - [Léxico](Lexico.md)
+  - [Diagrama de Casos de Uso](DiagramaCasosDeUso.md)
+  - [Diagrama de Contexto](DiagramadeContexto.md)
   - [Documento de Visão](DocVisao.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
   - [Protótipo de Alta Fidelidade](prototipoAltaFidelidade.md)
