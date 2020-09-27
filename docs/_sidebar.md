@@ -22,7 +22,7 @@
   - [Diagrama de Pacotes](DiagramaDePacotes.md)
   - [Diagrama de Banco de Dados](DiagramaBancoDeDados.md)
   - [Diagrama de Casos de Uso](DiagramaCasosDeUso.md)
-  - [Diagrama de Contexto](DiagramadeContexto.md)
+  - [Diagrama de Classe](DigramaClasse.md)
   - [Documento de Arquitetura](DocumentoArquitetura.md)
   - [Documento de Visão](DocVisao.md)
   - [Protótipo de Baixa Fidelidade](PrototipoBaixo.md)
