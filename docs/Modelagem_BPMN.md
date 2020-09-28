@@ -5,6 +5,7 @@
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 26/09/2020 | 1.0    | Criação do documento | Lucas Ganda e João de Assis|
 | 26/09/2020 | 1.1    |Processo de escolha de projeto | André Freitas|
+| 26/09/2020 | 1.2    |Processo de desenvolvimento | André Freitas|
 
 <br>
 
@@ -24,6 +25,12 @@ BPMN (Business Process Model and Notation) é uma notação gráfica de gerencia
 
 ### Versão 1.0
 ![d1](./images/bpmn_escolhaproj.png)
+
+
+## Processo de Desenvolvimento de Feature 
+
+### Versão 1.0
+![d1](./images/BPMNDEV.png)
 
 
 ## Referências
