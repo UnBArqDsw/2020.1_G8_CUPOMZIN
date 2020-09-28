@@ -2,7 +2,7 @@
 # Diagrama de Casos de Uso
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 26/09/2020 | 0.1   | Criação do documento | João de Assis|
+| 26/09/2020 | 1.0   | Criação do documento | João de Assis|
 
 ## 1. Diagrama de Casos de Uso
 Esse diagrama documenta o que o sistema faz do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema. Nesse diagrama não nos aprofundamos em detalhes técnicos que dizem como o sistema faz.

@@ -2,7 +2,7 @@
 
  **Data** | **Versão** | **Descrição** | **Autor(es)**
 :----:|:------:|:---------:|:-----:
- 26/07/20 | 0.1 | <p align="justify">Abertura do Documento de Visão</p> | Wictor Girardi
+ 26/07/20 | 1.0 | <p align="justify">Abertura do Documento de Visão</p> | Wictor Girardi
 
 
 # 1. Introdução

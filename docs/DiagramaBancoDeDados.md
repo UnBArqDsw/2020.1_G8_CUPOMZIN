@@ -2,8 +2,8 @@
 # Diagrama de Banco de Dados
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 26/09/2020 | 0.1   | Criação do documento | João de Assis, Lucas Zarbielli|
-| 27/09/2020 | 0.2   | Criação e adição do MER | Lucas Ganda |
+| 26/09/2020 | 1.0   | Criação do documento | João de Assis, Lucas Zarbielli|
+| 27/09/2020 | 1.1   | Criação e adição do MER | Lucas Ganda |
 
 # 1. Introdução
 Com o intuito de modelar o banco de dados, optou-se pelo uso de três documentos que precedem a criação do banco e guiam sua correta estruturação, são eles: Modelo Entidade-Relacionamentos (ME-R) , Diagrama Entidade-Relacionamentos (DE-R) e Diagrama Lógico (DL).
