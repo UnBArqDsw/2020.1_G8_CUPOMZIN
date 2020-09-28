@@ -16,3 +16,6 @@ BPMN (Business Process Model and Notation) é uma notação gráfica de gerencia
 
 ### Versão 1.0
 ![d1](./images/bpmn_geral.png)
+
+## Referências
+Business Process Modeling Notation BPMN. [ebook] Business Process Modeling Notation BPMN: Decanato de Planejamento e Orçamento. Disponível em: <http://www.dpo.unb.br/images/phocadownload/dpr/biblioteca/BPMN.pdf> [Accessado 28 September 2020].
