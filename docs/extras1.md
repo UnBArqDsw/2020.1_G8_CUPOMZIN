@@ -14,6 +14,6 @@ Para a segunda entrega foram feitas algumas evoluções nos documentos existente
 * [Protótipo de Alta Fidelidade](prototipoAltaFidelidade.md)
 * [Léxico](Lexico.md)
 * [Questionário](Questionário.md)
-* [MoSCow](MoSCow.md)
+* [MoSCow](MoSCoW.md)
 * [Plano de Gerenciamento de Custos](PlanoDeGerenciamentoDeCustos.md)
 * [Plano de Gerenciamento de Riscos](GerenciamentoDeRiscos.md)
