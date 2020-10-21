@@ -12,14 +12,14 @@ Com o intuito de modelar o banco de dados, optou-se pelo uso de três documentos
 ## 2.1 Modelo Entidade-Relacionamento
 
 ### Entidades:
-USER <br>
+CLIENT <br>
 SHOP<br>
 LOCATION<br>
 COUPON<br>
 LOT<br>
 
 ### Atributos:
-USER (id_client, username_client, password_client, avatar_img_client, cellphone_number_client)<br>
+CLIENT (id_client, username_client, password_client, avatar_img_client, cellphone_number_client)<br>
 SHOP (id_shop, name_shop, description_shop, username_shop, password_shop)<br>
 LOCATION (id_location, name_location, lat_location, long_location, type_location)<br>
 COUPON (id_coupon, id_lote, is_used)<br>
@@ -28,7 +28,7 @@ LOT (id_lot, name_lot, description_lot, original_price, discount_price, expirati
 
 ### Relacionamentos:
 
-USER  - favorites -  SHOP
+CLIENT  - favorites -  SHOP
 ⟶  Um usuário favorita várias lojas e uma loja é favoritada por vários usuários.
 Cardinalidade  n : m
 
