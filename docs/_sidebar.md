@@ -29,3 +29,5 @@
   - [Protótipo de Alta Fidelidade](prototipoAltaFidelidade.md)
   - [Modelagem BPMN](Modelagem_BPMN.md)
   - [Iniciativas Extras](extras1.md)
+- **Dinâmica e Seminário III**
+  - [GOFs](gofs.md)

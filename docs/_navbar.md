@@ -1,3 +1,4 @@
 - [Projeto](ManualIdentidadeVisual.md)
 - [Pré-Rastreabilidade](rich_picture.md)
 - [Elicitação](Questionário.md)
+- [Padrões de Projeto](gofs.md)
