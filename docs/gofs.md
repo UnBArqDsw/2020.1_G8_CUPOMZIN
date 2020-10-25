@@ -2,6 +2,7 @@
 | ---------- | ------ | -------------------- | --------------- |
 | 24/10/2020 | 0.1 | Criação de documento com gofs do backend | Lucas Ganda, João Lucas Zarbiélli e João de Assis |
 | 25/10/2020 | 0.2| Adição de imagens | Lucas Ganda, João Lucas Zarbiélli e João de Assis |
+| 26/10/2020 | 0.3 | Adição de GOFs Front-end | Wictor Girardi |
 
 # GOFS
 
@@ -41,5 +42,48 @@ O Proxy é um padrão de projeto estrutural que permite que você forneça um su
 No backend foi utilizado a lógica de Proxy para limitar o acesso de algumas rotas estratégicas, onde o proxy verifica o nível de acesso do usuário atraves de JSON Web Token (JWT) e concede ou não o acesso a rota requisitada.
 
 
+## GOFS FRONT-END
+
+### GOFS
+Os GoF's (Gang of Four) são padrões de design que visão prover soluções para problemas comum no desenvolvimento de software. No caso de programação orientada à objetos, os GoF's se propõem a solucionar problemas de interação e geração de objetos, que podem ser aplicados a contexto de problemas reais.São ferramentas poderosas no desenvolvimento de softwares.
+
+Os Padrões de Design Criacionais (Creational Patterns) abstraem a instanciação de objetos. Eles ajudam a criar um sistema independente de como seus objetos são criados, compostos e representados.
+
+## Padrões usados
+### Factory Method
+O Flutter possui uma arquitetura chamada BLoC (Business Logic Component), a qual tem a função de separar a lógica de negócio da UI através do uso de Streams. Em suma, stream é uma fonte de eventos assíncronos.
+
+Em termos práticos, essa arquitetura BLoC pode ser comparada com o padrão de projeto ‘factory method’.
+
+<code>push()</code>
+
+### Memento
+O Flutter usa o padrão memento na pilha de navegação.
+
+### Singleton
+No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway, além de utilizar o singleton para lidar com informações de autenticação e utilizar o singleton nativo do flutter.
+
+### Chain of Responsibility
+<img src='./chain.png'>
+<br>
+A intenção deste padrão é evitar o acoplamento do remetente de uma solicitação ao seu receptor, ao dar a mais de um objeto a oportunidade de tratar essa solicitação. Encadear os objetos receptores, passando a solicitação ao longo da cadeia até que um objeto a trate.
+
+Nesse padrão cada objeto receptor possui uma lógica descrevendo os tipos de solicitação que é capaz de processar e como passar adiante aquelas que requeiram processamento por outros receptores. A delegação das solicitações pode formar uma árvore de recursão, com um mecanismo especial para inserção de novos receptores no final da cadeia existente.
+
+Dessa forma, fornece um acoplamento mais fraco por evitar a associação explícita do remetente de uma solicitação ao seu receptor e dar a mais de um objeto a oportunidade de tratar a solicitação.
+
+Um exemplo da aplicação desse padrão é o mecanismo de herança nas linguagens orientadas a objeto: um método chamado em um objeto é buscado na classe que implementa o objeto e, se não encontrado, na superclasse dessa classe, de maneira recursiva.
+
+### State
+O Flutter por default vem com a arqitetura Lifting State Up (Vanilla), o qual é uma derivação do state. Todas as variáveis dentro da classe fazem parte do estado do widget. Nisso, quando alguma delas é alterada no setState(), toda a aplicação é renderizada.
+
+### Strategy
+
+A BaseScreen é o padrão que toda tela deve seguir, ela possui o contexto para o resto da página Widget body, e como toda tela no flutter herda de Widget existe a garantia de que esse contexto sempre existirá.
+
+
+
 ## 3. Referências 
 Refactoring.guru. 2020. O Catálogo Dos Padrões De Projeto. [online] Disponível em : <https://refactoring.guru/pt-br/design-patterns/catalog> [Acessado 25 October 2020].
+Padrões de Projetos em Dart<https://medium.com/flutterando/implementando-padr%C3%B5es-de-projetos-em-dart-parte-1-d604f6038460> [Acessado 25 October 2020].
+025 – Padrão de Projeto STATE – Design Pattern do FLUTTER<http://davesbalthazar.com.br/025-padrao-de-projeto-state-design-pattern-do-flutter/> [Acessado 25 October 2020].
