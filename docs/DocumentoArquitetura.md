@@ -5,7 +5,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 27/09/2020 | 1.0    | Criação do documento | João de Assis|
-
+| 26/10/2020 | 1.1    | Adicionando TypeOrm as tecnologias utilizadas | João de Assis|
 # Documento de Arquitetura
 
 ## 1. Introdução
@@ -22,6 +22,9 @@ Este documento visa especificar de forma básica alguns tópicos referentes ao D
 ### 2.2. Back End
 * ### 2.2.1. Express
     O Express é um framework para aplicações web em Node.js. Pequeno e flexível, fornecendo um conjunto robusto de recursos para aplicativos web e mobile.
+
+* ### 2.2.2 TypeORM
+    O TypeORM é um módulo avançado de gerenciamento de relações de objeto que é executado no Node. js. Como o nome indica, o TypeORM deve ser usado com o TypeScript.
 
 ### 2.3. Banco de Dados
 * ### 2.3.1. PostgreSQL
