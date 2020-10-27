@@ -1,6 +1,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 25/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
+| 26/10/2020 | 1.1    | Realizando modificações pontuais no diagrama detalhado |  João de Assis|
 # 1.Introdução
 A Unified Modelling Language (UML) é uma linguagem ou notação de diagramas para especificar,visualizar e documentar modelos de ‘software’. A UML é composta por muitos elementos de modelos que representam as diferentes partes de um sistema de software. Os elementos UML são usados para criar diagramas, que representam um determinada parte, ou um ponto de vista do sistema.
 # 2. UMLs Estáticos
