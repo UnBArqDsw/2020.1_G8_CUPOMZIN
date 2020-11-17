@@ -31,3 +31,5 @@
   - [Iniciativas Extras](extras1.md)
 - **Dinâmica e Seminário III**
   - [GOFs](gofs.md)
+- **Dinâmica e Seminário IV**
+  - [Documento de Arquitetura de Software](DocumentoArquitetura.md)
