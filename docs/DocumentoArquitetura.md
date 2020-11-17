@@ -1,12 +1,14 @@
+# Documento de Arquitetura de Software
+
 
 # Histórico de versão
-
 
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 27/09/2020 | 1.0    | Criação do documento | João de Assis|
 | 26/10/2020 | 1.1    | Adicionando TypeOrm as tecnologias utilizadas | João de Assis|
-# Documento de Arquitetura
+| 16/11/2020 | 1.2    | Adicionando diagramas e atualizando tecnologias | Lucas Ganda | 
+<br/>
 
 ## 1. Introdução
 Este documento visa especificar de forma básica alguns tópicos referentes ao Documento de Arquitetura que será desenvolvido no decorrer da disciplina.
