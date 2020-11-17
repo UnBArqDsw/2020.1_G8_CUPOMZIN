@@ -118,7 +118,7 @@ Normalmente usado para o desenvolvimento de interfaces de usuário que divide um
 ## Model 
 Model é a ponte entre as camadas Visão (View) e Controle (Controller), consiste na parte lógica da aplicação, que gerencia o comportamento dos dados através de regras de negócios, lógica e funções. Esta espera a chamada das funções, que permite o acesso para os dados serem coletados, gravados e, exibidos.
 
-<img src='./model.jpg'>
+<img src='./model.JPG'>
 
 ## View 
 View pode ser qualquer saída de representação dos dados, como uma tabela ou um diagrama. É onde os dados solicitados da Model são exibidos. É possível ter várias visões do mesmo dado, como um gráfico de barras para gerenciamento e uma visão tabular para contadores. A View também provoca interações com o usuário, que interage com a Controller. O exemplo básico disso é um botão gerado por uma View, no qual um usuário clica e aciona uma ação na Controller.
@@ -126,7 +126,7 @@ View pode ser qualquer saída de representação dos dados, como uma tabela ou u
 ## Controller
 Controller é o componente final da tríade, faz a mediação da entrada e saída, comandando a visão e o modelo para serem alterados de forma apropriada conforme o usuário solicitou. O foco da controller é a ação do usuário, onde são manipulados os dados que o usuário insere ou atualiza, chamando em seguida a Model.
 
-<img src='./controller.jpg'>
+<img src='./controller.JPG'>
 
 <br/>
 <br/>
