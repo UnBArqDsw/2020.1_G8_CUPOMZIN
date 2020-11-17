@@ -162,7 +162,7 @@ momento
 <img src='./DiagramaLogico.jpg'>
 
 ## Visão de Implementação
-• A visão de implantação descreve como o sistema será implementado, sendo visualizado especialmente através do diagrama de componentes.
+• A visão de implementação descreve como o sistema será implementado, sendo visualizado especialmente através do diagrama de componentes.
 ### [Link para o documento completo](componentDiagram.md)
 <img src='./images/diagrama_de_componentes.png'>
 
