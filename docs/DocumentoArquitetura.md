@@ -77,30 +77,16 @@ Este documento se refere à criação e desenvolvimento do aplicativo Cuponzim, 
 <br/>
 <br/>
 
-# 4. Arquitetura Distribuída
-* ## Microsserviços
-    Microsserviços são um tipo de arquitetura de software que consiste em construir aplicações desmembrando-as em serviços independentes. Estes serviços se comunicam entre si usando APIs e promovem grande agilidade em times de desenvolvimento.
+# 4. Arquitetura Monolítica vs Distribuída
+Inicialmente, o grupo adotaria uma arquitetura de microsserviços, modularizando os elementos do backend conforme a funcionalidade implementada (Cupons, Pessoas e Lojas). Entretanto, foi adotada uma arquitetura híbrida, com aspectos de microsserviços, organizando a aplicação em dois serviços de frontend e um único serviço de backend. Enquanto o frontend está dividido entre um serviço responsável pelo aplicativo mobile e outro pelo aplicativo web, o backend apresenta aspectos de arquitetura monolítica, contando com a implementação de Models e Controllers, de forma que cada serviço do frontend possa recorrer a uma API estável através dos mesmos endpoints.
 
-No produto cuponzim os serviços estão divididos entre :
+### [Link para o documento original](DiagramaDeContexto.md)
 
-* Fale conosco:  bloco responsável pela comunicação de usuários com os desenvolvedores do cuponzim
+Primeiro diagrama de contexto
+<img src='./images/diagrama_contexto.png'>  
 
-* Loja: bloco responsável por guardar e administrar as informações sobre as lojas, bem como seu login e cadastron
-
-* Promoções: serviço responsável por administrar os lançamentos de promoções
-
-* Cupom: serviço responsável pela validação, resgate e exclusão de cupons
-
-* Cliente: bloco responsável por guardar e administrar as informações sobre os clientes, bem como seu login e cadastro
-
-* Comunicação entre os serviços
-
-    Comunicação entre os serviços será feita por meio de uma API Gateway, a qual será responsável por fazer o intermédio entre os microsserviços por meio de métodos do protocolo HTTP.
-
-
-### [Link para o documento completo](DiagramaDeContexto.md)
-<img src='./images/diagrama_contexto2.png'>    
-
+Diagrama de contexto atualizado
+<img src='./images/diagrama_contexto3.png'>  
 <br/>
 <br/>
 
