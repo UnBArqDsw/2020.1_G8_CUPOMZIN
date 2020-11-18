@@ -10,7 +10,7 @@
 | 16/11/2020 | 1.2    | Adicionando finalidade e escopo | Lucas Ganda | 
 | 17/11/2020 | 1.3    | Melhorando a descrição das tecnologias| Lucas Ganda |
 | 17/11/2020 | 1.4    | Adicionando especificações da arquitetura| Lucas Ganda | 
-| 17/11/2020 | 1.3    | Adicionando especificações da arquitetura| Lucas Ganda |
+| 17/11/2020 | 1.5    | Adicionando especificações da arquitetura| Lucas Ganda |
 <br/>
 
 # 1. Introdução
