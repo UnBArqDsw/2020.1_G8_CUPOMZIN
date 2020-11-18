@@ -6,6 +6,8 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 17/11/2020 | 0.1    | Criação do documento | Lucas Ganda|
+|
+| 17/11/2020 | 0.2    | Linkando Documentos | André Freitas|
 <br/><br/>
 
 # 1. Introdução
@@ -21,7 +23,13 @@ GRASP Criador é o responsável por instanciar e criar objetos através dos rela
 
 ## 2.1.1 Backend
 <img src='./routes.JPG'> 
+
+[Routes.ts](https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_BACKEND/blob/master/src/routes.ts)
+
 <img src='./client.JPG'> 
+
+[Client.ts](https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_BACKEND/blob/master/src/entity/Client.ts)
+
 
 <br/>
 
