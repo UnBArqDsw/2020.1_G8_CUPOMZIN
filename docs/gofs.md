@@ -5,6 +5,7 @@
 | 26/10/2020 | 1.2 | Adição de GOFs Front-end | Wictor Girardi |
 | 26/10/2020 | 1.3 | Reestruturação | João Lucas Zarbiélli |
 | 26/10/2020 | 1.4 | Agrupando os GoFs por tipo e adicionando imagens | João Lucas Zarbielli| 
+| 19/11/2020 | 1.5 | Colocando exemplo de código no código proxy | André Freitas| 
 
 # GOFS
 
