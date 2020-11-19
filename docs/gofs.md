@@ -55,6 +55,12 @@ O Proxy é um padrão de projeto estrutural que permite que você forneça um su
 
 No backend foi utilizado a lógica de Proxy para limitar o acesso de algumas rotas estratégicas, onde o proxy verifica o nível de acesso do usuário atraves de JSON Web Token (JWT) e concede ou não o acesso a rota requisitada.
 
+Pode-se ver que aqui a lógica proxy sendo utilizada no retorno do JWT no login, e o mesmo sendo necessário em requisições.
+<img src='./images/proxylogin.png'>
+<img src='./images/proxycodigo.png'>
+
+
+
 ### 2.3 GOFS Comportamentais
 #### 2.3.1 Definição 
 Estes padrões são voltados aos algoritmos e a designação de responsabilidades entre objetos.
