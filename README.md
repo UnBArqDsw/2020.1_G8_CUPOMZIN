@@ -19,7 +19,7 @@ Aplicativo de cupoms de desconto
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
 
 ## Instalação 
-**Linguagens**: JavvaScript, Dart<br>
+**Linguagens**: JavaScript, Dart<br>
 **Tecnologias**: Docker, Postgres, ReactJs, Nodejs, Flutter<br>
 
 É necessário possuir um ambiente que contenha instalado:
@@ -29,9 +29,9 @@ Docker
 Docker-compose .
 
 ## Uso 
-Primeramente, o repositório backend deve ser baixado.
-Após isso, rode o comando docker-conmpose up.
-Pronto, agora a api node e o banco Postgres estará rodando
+Primeramente, o repositório backend deve ser baixado.<br>
+Após isso, rode o comando docker-conmpose up.<br>
+Pronto, agora a api node e o banco Postgres estará rodando <br>
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto final.
