@@ -36,7 +36,7 @@ Os diagramas elaborados para esse projeto foram os seguintes:
 
 ![cd1](./images/Diagrama-Atividade-lojista.png)
 
-### Este documento foi desenvolvido usando como base os documentos de [Rich Picture](rich_picture.md), [5W2H](5W2H.md), [Storytelling](Storytelling.md) e [MoSCow](MoSCoW.md)
+Este documento foi desenvolvido usando como base os documentos de [Rich Picture](rich_picture.md), [5W2H](5W2H.md), [Storytelling](Storytelling.md) e [MoSCow](MoSCoW.md)
 ## Referências
 
 Pt.wikipedia.org. 2020. Diagrama De Atividade. [online] Disponível em: <https://pt.wikipedia.org/wiki/Diagrama_de_atividade> [Accesso: 20 November 2020].

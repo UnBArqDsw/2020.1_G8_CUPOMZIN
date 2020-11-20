@@ -26,7 +26,7 @@ Como especificado no documento de [Léxicos](Lexico.md), é o usuário que utili
 ### 3.2 Diagrama de Casos de Uso do Lojista
 <img src='./DiagramaCasosDeUsoLojista.png'>
 
-## Digramas desenvolvidos utilizando como base os documentos de : [5W2H](5W2H.md), [Storytelling](Storytelling.md) e [MoSCow](MoSCoW.md)
+ Diagramas desenvolvidos utilizando como base os documentos de - [5W2H](5W2H.md), [Storytelling](Storytelling.md) e [MoSCow](MoSCoW.md)
 </br>
 
 ## 4 Referências

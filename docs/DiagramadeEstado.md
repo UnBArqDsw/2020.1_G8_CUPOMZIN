@@ -19,4 +19,4 @@ Um diagrama de estados é uma representação gráfica de modelagem de UML dinâ
 ## Lojista
 ![d2](./images/diagrama_estado.png)
 
-### Diagramas elaborados usando como base os documentos de : [Storytelling](Storytelling.md) e [Rich Picture](rich_picture.md)
+ Diagramas elaborados usando como base os documentos de : [Storytelling](Storytelling.md) e [Rich Picture](rich_picture.md)
