@@ -15,7 +15,7 @@ Um diagrama de componentes permite a verificação de que a funcionalidade neces
 ## v1.0
 ![cd1](./images/diagrama_de_componentes.png)
 
-## Diagrama feito usando como base o documento de [Rich Picture](rich_picture.md)
+## Diagrama feito usando como base o documento de : [Rich Picture](rich_picture.md)
 </br>
 
 ## Referências

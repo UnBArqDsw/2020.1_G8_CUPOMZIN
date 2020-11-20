@@ -20,7 +20,7 @@ Diagrama Resumido:
 Diagrama Detalhado:
 <img src='./DiagramaPacotesDetalhado.png'>
 
-## Diagrama feito usando como referência o documento [Rich Picture](rich_picture.md)
+## Diagrama feito usando como referência o documento : [Rich Picture](rich_picture.md)
 </br>
 
 # Referências 

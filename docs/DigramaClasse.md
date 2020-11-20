@@ -22,7 +22,7 @@ Um diagrama de classes UML é uma notação gráfica usada para construir e visu
 ## v2.0
 ![cd2](./images/diagrama_classe.png)
 
-## Diagramas desenvolvidos usando como base o documento de  [Rich Picture](rich_picture.md)
+## Diagramas desenvolvidos usando como base o documento de : [Rich Picture](rich_picture.md)
 </br>
 
 ## Referências
