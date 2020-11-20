@@ -1,4 +1,7 @@
 # Cupomzin
+<p align="center">
+<img src="./docs/assets/img/CuponzimLogo.png"  />
+</p>
 
 **Número do Grupo**: 8<br>
 **Código da Disciplina**: FGA0208-T01<br>
@@ -13,28 +16,9 @@
 | 17/0056155  | André Aben-Athar de Freitas |
 
 ## Sobre 
-Aplicativo de cupoms de desconto
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
+Cuponzim é um projeto que busca facilitar a maneira de você comprar dentro de shoppings,outlets e feiras. Por meio do nosso aplicativo o cliente vai poder encontrar cupons exclusivos para comprar produtos variados com descontos de maneira simplificada. O varejista vai poder cadastrar suas promoções por meio de uma plataforma web voltada para lojas.
 
 ## Instalação 
 **Linguagens**: JavaScript, Dart<br>
 **Tecnologias**: Docker, Postgres, ReactJs, Nodejs, Flutter<br>
 
-É necessário possuir um ambiente que contenha instalado:
-Flutter
-ReactJs
-Docker
-Docker-compose .
-
-## Uso 
-Primeramente, o repositório backend deve ser baixado.<br>
-Após isso, rode o comando docker-conmpose up.<br>
-Pronto, agora a api node e o banco Postgres estará rodando <br>
-
-## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto final.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
