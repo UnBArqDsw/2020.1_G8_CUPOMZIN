@@ -34,3 +34,4 @@
   - [GRASP](grasp.md)
 - **Dinâmica e Seminário IV**
   - [Documento de Arquitetura de Software](DocumentoArquitetura.md)
+  - [Reutilização de Software](Reutilização.md)
