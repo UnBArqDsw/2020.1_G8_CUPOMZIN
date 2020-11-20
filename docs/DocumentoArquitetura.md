@@ -11,10 +11,13 @@
 | 17/11/2020 | 1.3    | Melhorando a descrição das tecnologias| Lucas Ganda |
 | 17/11/2020 | 1.4    | Adicionando especificações da arquitetura| Lucas Ganda | 
 | 17/11/2020 | 1.5    | Adicionando especificações da arquitetura| Lucas Ganda |
+| 20/11/2020 | 1.6    | Correções e melhorias | Wictor Girardi |
 <br/>
 
 # 1. Introdução
+Este documento tem como objetivo registrar a estrutura arquitetural do aplicativo Cuponzim, desenvolvido como produto final da disciplina de ADS (Arquitetura e Desenho de Software), no campus do Gama, da Universidade de Brasília.
 
+O Documento de Arquitetura de Software demonstra o conjunto de visões que pretendem cobrir os aspectos técnicos e estruturais relativos ao desenvolvimento e implantação do sistema Cuponzim.
 ## 1.1 - Finalidade
 Este documento visa conceder de forma geral uma visão arquitetural da aplicação, tendo como finalidade especificar e documentar as decisões tomadas no que tange a arquitetura da produção e implementação do projeto Cuponzim, serão também utilizados alguns documentos como restrições, metas e diagramas para ratificar essas decisões tomadas.
 
@@ -24,18 +27,18 @@ Este documento se refere à criação e desenvolvimento do aplicativo Cuponzim, 
 # 2. Tecnologias utilizadas
 ## 2.1. Front End
 * ### 2.1.1. Flutter
-    Flutter é o kit de ferramentas de interface do usuário do Google para criar aplicativos belos e compilados nativamente para dispositivos móveis, Web e desktop a partir de uma única base de código. É um framework que possui como linguagem base o Dart.
+    O Flutter é um framework construído pela Google para facilitar o desenvolvimento mobile multiplataforma (Android/iOS) que tem o Dart como principal linguagem de desenvolvimento. Ele utiliza uma abordagem até então única para lidar com os componentes nativos de cada plataforma, em que cada um deles é implementado pelo próprio framework e apresentado ao usuário por um motor de renderização próprio.
 
     O Flutter foi escolhido por alguns motivos diferentes, como por ser uma tecnologia emergente no mercado, que vem se consolidando cada vez mais. Também por ser uma ferramenta que possui um rápido desenvolvimento, por ter uma curva de aprendizado não tão alta e por possuir ótimas ferramentas como seu hot reload, que permite ver as alterações feitas de forma rápida, sem precisar rodar novamento o código. Outro motivo foi o fato de uma parte da equipe já ter tido contato com essa tecnologia.
 
 * ### 2.1.2. React.js
     O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.
 
-    O React.js foi escolhido pois é facilmente uma das tecnologias mais consolidadas e valiosas no mercado, além de parte da equipe também já ter contato prévio com essa ferramenta.
+    O React.js foi escolhido pois é facilmente uma das tecnologias mais consolidadas e valiosas no mercado, além de parte da equipe também já ter contato prévio com essa ferramenta e com isso conseguir realizar o desenvolvimento da plataforma web da aplicação de maneira veloz é concisa.
 
 ## 2.2. Back End
 * ### 2.2.1. Express
-    O Express é um framework para aplicações web em Node.js. Pequeno e flexível, fornecendo um conjunto robusto de recursos para aplicativos web e mobile.
+    É um framework para desenvolvimento web que roda na plataforma Node.js que fornece um conjunto robusto de recursos para aplicativos web e móvel. Express é o framework Node mais popular e a biblioteca subjacente para uma série de outros frameworks do Node. Os desenvolvedores que utilizam desse framework têm liberdade para criar pacotes de middleware específicos visando resolver problemas específicos que surgem no desenvolvimento de uma aplicação. Existem bibliotecas para trabalhar com cookies, sessões, login de usuários, parâmetros de URL, dados em requisições POST, cabeçalho de segurança e tantos outros.
 
     O Express foi escolhido pois é um framework com bastante liberdade de implementação e também por possuir uma comunidade bem ativa.
 
