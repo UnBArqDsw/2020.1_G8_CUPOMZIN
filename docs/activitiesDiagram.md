@@ -6,7 +6,7 @@
 | 25/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
 | 26/09/2020 | 1.1    | Adicionando parte do logista | André Freitas |
 | 26/10/2020 | 1.2    | Modificando diagramas e documento com correções pontuais| João de Assis |
-
+| 20/11/2020 | 1.3    | Mantendo rastro do documento |André Freitas e Lucas Ganda|
 <br/>
 
 # Diagrama de Atividades
@@ -36,9 +36,9 @@ Os diagramas elaborados para esse projeto foram os seguintes:
 
 ![cd1](./images/Diagrama-Atividade-lojista.png)
 
+### Este documento foi desenvolvido usando como base os documentos de [Rich Picture](rich_picture.md), [5W2H](5W2H.md), [Storytelling](Storytelling.md) e [MoSCow](MoSCoW.md)
 ## Referências
 
-[Wikipedia](https://pt.wikipedia.org/wiki/Diagrama_de_atividade) **Diagrama de atividade**
+Pt.wikipedia.org. 2020. Diagrama De Atividade. [online] Disponível em: <https://pt.wikipedia.org/wiki/Diagrama_de_atividade> [Accesso: 20 November 2020].
 
-[Lucid Chart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml) **Diagrama de Atividade**
-
+Lucidchart.com. 2020. [online] Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml> [Accesso: 20 November 2020].
