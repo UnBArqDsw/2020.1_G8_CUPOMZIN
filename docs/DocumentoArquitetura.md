@@ -13,6 +13,7 @@
 | 17/11/2020 | 1.5    | Adicionando especificações da arquitetura| Lucas Ganda |
 | 20/11/2020 | 1.6    | Correções e melhorias | Wictor Girardi |
 | 20/11/2020 | 1.7    | Correções ortograficas | Wictor Girardi |
+| 20/11/2020 | 1.8    | Novo diagrama de classes | André Freitas |
 <br/>
  
 # 1. Introdução
@@ -139,7 +140,7 @@ momento
  
 ## Diagrama de Classes.
 ### [Link para o documento completo](DigramaClasse.md)
-<img src='./images/ClassDiagram.png'>
+<img src='./images/diagram_class3.png'>
  
 ## Visão de Casos de Uso
 • É uma visão que documenta o que o sistema faz do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema.
