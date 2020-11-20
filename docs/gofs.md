@@ -5,7 +5,8 @@
 | 26/10/2020 | 1.2 | Adição de GOFs Front-end | Wictor Girardi |
 | 26/10/2020 | 1.3 | Reestruturação | João Lucas Zarbiélli |
 | 26/10/2020 | 1.4 | Agrupando os GoFs por tipo e adicionando imagens | João Lucas Zarbielli| 
-| 19/11/2020 | 1.5 | Colocando exemplo de código no código proxy | André Freitas| 
+| 19/11/2020 | 1.5 | Colocando exemplo de código no código proxy | André Freitas|
+| 20/11/2020 | 1.6 | Retirando GOF Factory e adicionando Singleton e Decorator ao backend | João de Assis|  
 
 # GOFS
 
@@ -22,25 +23,22 @@ Os gofs utilizados para a elaboração deste projeto podem ser separados em 3 ti
 Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.
 
 #### 2.1.2 GOFS Criacionais: BackEnd
-##### 2.1.2.1 Factory Method
-<img src='./images/factory.png'>
-O Factory Method é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
 
-No backend foi utilizado o factory method durante a definição de entidades no banco de dados.
-
-##### 2.1.2.2 Singleton
+##### 2.1.2.1 Singleton
 <img src='./images/singleton.png'>
 O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
 
 Para o projeto utilizamos somente uma instância que realiza a conexão com o banco de dados, para garantir que tenhamos apenas uma conexão com o banco evitando problemas de duplicação de escrita e acesso ao banco.
+
+Além disso, utilizamos o singleton para verificar se um usuário possui um token de login válido
+
+<img src='./images/screenshot singleton.png'>
 
 #### 2.1.3 GOFS Criacionais: FrontEnd
 ##### 2.1.3.1 Factory Method
 O Flutter possui uma arquitetura chamada BLoC (Business Logic Component), a qual tem a função de separar a lógica de negócio da UI através do uso de Streams. Em suma, stream é uma fonte de eventos assíncronos.
 
 Em termos práticos, essa arquitetura BLoC pode ser comparada com o padrão de projeto ‘factory method’.
-
-<code>push()</code>
 
 #### 2.1.3.2 Singleton
 No Front-End, usamos a classe Api como um singleton para fazer toda a comunição do front com o gateway, além de utilizar o singleton para lidar com informações de autenticação e utilizar o singleton nativo do flutter.
@@ -60,6 +58,14 @@ Pode-se ver que aqui a lógica proxy sendo utilizada no retorno do JWT no login,
 <img src='./images/proxylogin.png'>
 <img src='./images/proxycodigo.png'>
 
+##### 2.2.2.2 Decorator
+<img src='./images/decorator.png'>
+O Decorator é um padrão de projeto estrutural que permite que você acople novos comportamentos para objetos ao colocá-los dentro de invólucros de objetos que contém os comportamentos.
+
+No backend utilizamos decorator para definir as entidades do banco de dados.
+
+Todas as classes de entidade são originadas a partir de uma unica classe Entity, e através de decorators passamos as tabelas que serão geradas no banco
+<img src='./images/screenshot decorator.png'>
 
 
 ### 2.3 GOFS Comportamentais

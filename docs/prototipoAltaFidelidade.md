@@ -1,6 +1,7 @@
 | Data       | Versão | Descrição             | Participantes  |
 | ---------- | ------ | --------------------- | -------------- |
 | 25/09/2020 | 1.0    | Criação do documento  | Wictor Girardi |
+| 20/11/2020 | 1.1    | Linkando com artefato  | Lucas Ganda |
 
 # 1. Introdução
 
@@ -16,6 +17,7 @@ Esse protótipo de alta fidelidade foi realizado utilizando o manual de identida
 
 <img src='./prototipoAlta.png'>
 
+### Cores e fontes seguem os padrões estabelecidos no documento de [Manual de Identidade Visual](ManualIdentidadeVisual.md)
 # 4. Referências
 
 Prototipagem de alta fidelidade: o que é, quando, por que e como usar?
