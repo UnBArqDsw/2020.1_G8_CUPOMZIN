@@ -2,6 +2,7 @@
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 25/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
 | 26/10/2020 | 1.1    | Realizando modificações pontuais no diagrama detalhado |  João de Assis|
+| 20/11/2020 | 1.2    | Linkando com artefato |  Lucas Ganda|
 # 1.Introdução
 A Unified Modelling Language (UML) é uma linguagem ou notação de diagramas para especificar,visualizar e documentar modelos de ‘software’. A UML é composta por muitos elementos de modelos que representam as diferentes partes de um sistema de software. Os elementos UML são usados para criar diagramas, que representam um determinada parte, ou um ponto de vista do sistema.
 # 2. UMLs Estáticos
@@ -18,3 +19,9 @@ Diagrama Resumido:
 
 Diagrama Detalhado:
 <img src='./DiagramaPacotesDetalhado.png'>
+
+## Diagrama feito usando como referência o documento [Rich Picture](rich_picture.md)
+</br>
+
+# Referências 
+- Lucidchart.com. 2020. [online] Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-pacotes-uml> [Acesso: 20 November 2020].

@@ -4,7 +4,7 @@
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 26/09/2020 | 1.0   | Criação do documento | João de Assis|
 | 26/09/2020 | 2.0   | Refatorando documento | João Lucas, Lucas Ganda, João de Assis |
-
+| 20/11/2020 | 2.1   | Linkando com outros artefatos| Lucas Ganda e André Freitas |
 ## 1. Diagrama de Casos de Uso
 Esse diagrama documenta o que o sistema faz do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema. Nesse diagrama não nos aprofundamos em detalhes técnicos que dizem como o sistema faz.
 
@@ -25,6 +25,9 @@ Como especificado no documento de [Léxicos](Lexico.md), é o usuário que utili
 
 ### 3.2 Diagrama de Casos de Uso do Lojista
 <img src='./DiagramaCasosDeUsoLojista.png'>
+
+## Digramas desenvolvidos utilizando como base os documentos de  [5W2H](5W2H.md), [Storytelling](Storytelling.md) e [MoSCow](MoSCoW.md)
+</br>
 
 ## 4 Referências
 UML. Use Case Diagrams. [S. l.]. Disponível em: https://www.uml-diagrams.org/use-case-diagrams.html. Acesso em: 26 set. 2020.

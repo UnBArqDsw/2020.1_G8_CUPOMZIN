@@ -4,7 +4,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 25/09/2020 | 1.0    | Criação do documento | André Freitas, João de Assis, Lucas Ganda, João Lucas Zarbiélli, Wictor Girardi |
-
+| 20/11/2020 | 1.1    | Linkando artefato| Lucas Ganda|
 <br/>
 
 # Diagrama de Componentes
@@ -14,6 +14,9 @@ Um diagrama de componentes permite a verificação de que a funcionalidade neces
 
 ## v1.0
 ![cd1](./images/diagrama_de_componentes.png)
+
+## Diagrama feito usando como base o documento de [Rich Picture](rich_picture.md)
+</br>
 
 ## Referências
 

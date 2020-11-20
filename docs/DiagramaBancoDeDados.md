@@ -4,7 +4,7 @@
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 26/09/2020 | 1.0   | Criação do documento | João de Assis, Lucas Zarbielli|
 | 27/09/2020 | 1.1   | Criação e adição do MER | Lucas Ganda |
-
+| 20/11/2020 | 1.2   | Linkando com outro artefato | Lucas Ganda |
 # 1. Introdução
 Com o intuito de modelar o banco de dados, optou-se pelo uso de três documentos que precedem a criação do banco e guiam sua correta estruturação, são eles: Modelo Entidade-Relacionamentos (ME-R) , Diagrama Entidade-Relacionamentos (DE-R) e Diagrama Lógico (DL).
 
@@ -50,6 +50,7 @@ Cardinalidade  1 : n
 ## 2.3 Diagrama Lógico
 <img src='./DiagramaLogico.jpg'>
 
+### Diagrama feito usando como base o documento de [Rich Picture](rich_picture.md)
 # 3. Referências
 
 Diagrama Entidade - Relacionamento (DER), Disponível em: https://medium.com/@mauriciogeneroso/banco-de-dados-diagrama-entidade-x-relacionamento-der-5ce497d930db Acesso em: 26 set. 2020
