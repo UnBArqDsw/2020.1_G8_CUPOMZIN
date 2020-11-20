@@ -16,7 +16,7 @@
 - **Dinâmica e Seminário II**
   - [Diagrama de Atividades](activitiesDiagram.md)
   - [Diagrama de Componente](componentDiagram.md)
-  - [Diagrama de Estado](stateDiagram.md)
+  - [Diagrama de Estado](DiagramadeEstado.md)
   - [Diagrama de Contexto](DiagramadeContexto.md)
   - [Folha de Estilo](folhaDeEstilo.md)
   - [Diagrama de Pacotes](DiagramaDePacotes.md)
