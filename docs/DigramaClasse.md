@@ -4,7 +4,7 @@
 | Data       | Versão | Descrição                                          | Participantes                                                                   |
 | ---------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 27/09/2020 | 1.0    | Criação do documento | André Freitas |
-
+| 20/11/2020 | 2.0    | Corrigindo | André Freitas e Lucas Ganda |
 
 <br/>
 
@@ -14,11 +14,13 @@ Um diagrama de classes UML é uma notação gráfica usada para construir e visu
 
 
 
-## v1.0
 
 ### Diagrama de Classe
+## v1.0
 ![cd1](./images/ClassDiagram.png)
 
+## v2.0
+![cd2](./images/diagrama_classe.png)
 
 ## Referências
 
