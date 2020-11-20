@@ -24,7 +24,7 @@ Um diagrama de contexto é o diagrama de fluxo de dados considerado o de mais al
 ## Versão 2.0
 ![d3](./images/diagrama_contexto3.png)
 
- Diagramas feitos usando como base o documento : [Rich Picture](rich_picture.md) e o  [5W2H](5W2H.md)
+ Diagramas feitos usando como base o documento - [Rich Picture](rich_picture.md) e o  [5W2H](5W2H.md)
 </br>
 
 ## Referências

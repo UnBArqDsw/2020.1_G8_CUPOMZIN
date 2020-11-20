@@ -50,7 +50,7 @@ Cardinalidade  1 : n
 ## 2.3 Diagrama Lógico
 <img src='./DiagramaLogico.jpg'>
 
-### Diagrama feito usando como base o documento de : [Rich Picture](rich_picture.md)
+ Diagrama feito usando como base o documento de - [Rich Picture](rich_picture.md)
 # 3. Referências
 
 Diagrama Entidade - Relacionamento (DER), Disponível em: https://medium.com/@mauriciogeneroso/banco-de-dados-diagrama-entidade-x-relacionamento-der-5ce497d930db Acesso em: 26 set. 2020
