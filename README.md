@@ -19,7 +19,7 @@
 Cuponzim é um projeto que busca facilitar a maneira de você comprar dentro de shoppings,outlets e feiras. Por meio do nosso aplicativo o cliente vai poder encontrar cupons exclusivos para comprar produtos variados com descontos de maneira simplificada. O varejista vai poder cadastrar suas promoções por meio de uma plataforma web voltada para lojas.
 
 Link dos outros repositórios
-<a href='https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_BACKEND'>Backend</a>, <a href='https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_FRONTEND_WEB'>Frontend Mobile</a> e <a href='https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_FRONTEND'>Frontend Desktop</a>
+<a href='https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_BACKEND'>Backend</a>, <a href='https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_FRONTEND'>Frontend Mobile</a> e <a href='https://github.com/UnBArqDsw/2020.1_G8_CUPONZIM_FRONTEND_WEB'>Frontend Desktop</a>
 ## Screenshot 
 ### Mobile
 <img src="./docs/images/tela1.jpg"  />
