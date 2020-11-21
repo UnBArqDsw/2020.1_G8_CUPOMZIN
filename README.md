@@ -18,7 +18,7 @@
 ## Sobre 
 Cuponzim é um projeto que busca facilitar a maneira de você comprar dentro de shoppings,outlets e feiras. Por meio do nosso aplicativo o cliente vai poder encontrar cupons exclusivos para comprar produtos variados com descontos de maneira simplificada. O varejista vai poder cadastrar suas promoções por meio de uma plataforma web voltada para lojas.
 
-## Apresentação do projeto e arquitetura
+## Explicação da arquitetura e projeto
 https://youtu.be/vO-7JdHXtgo
 
 ## Apresentação do projeto
